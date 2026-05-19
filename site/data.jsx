@@ -237,7 +237,7 @@ window.SITE_DATA = {
 
   // Timeline (newest first).
   timeline: [
-    { range: 'Aug 2024 — Present',   org: 'Woven by Toyota · Sunnyvale, CA',  role: 'Vehicle Integration Engineer · validating embedded SW and ECU integration across CAN/UDP/Serial; owning new vehicle subsystems from prototype through validation; engineered a custom multi-computer thermal management system improving airflow by 50%.' },
+    { range: 'Aug 2025 — Present',   org: 'Woven by Toyota · Sunnyvale, CA',  role: 'Vehicle Integration Engineer · validating embedded SW and ECU integration across CAN/UDP/Serial; owning new vehicle subsystems from prototype through validation; engineered a custom multi-computer thermal management system improving airflow by 50%.' },
     { range: 'Aug 2024 — Aug 2025',  org: 'The Aerospace Corporation · Chantilly, VA',  role: 'Vehicle Modeling & Simulation Software Engineer · built distributed Java simulations of in-orbit vehicle dynamics; mentored summer 2025 interns.' },
     { range: 'Aug 2020 — May 2024',  org: 'Duke University',                  role: 'B.S.E Mechanical Engineering · B.A Computer Science · Cert. Robotics & Automation' },
     { range: 'May 2023 — Aug 2023',  org: 'General Motors · Warren, MI',      role: 'Engineering Design Intern · Advanced Vehicle Design Electrical' },

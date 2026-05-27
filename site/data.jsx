@@ -58,7 +58,7 @@ window.SITE_DATA = {
       stats: [
         { k: '3yr', l: 'on the team' },
         { k: 'SG', l: 'semifinal site' },
-        { k: 'IP-X', l: 'wet-flight rated' },
+        { k: 'IP-69', l: 'wet-flight rated' },
       ],
       tags: ['Drones', 'Parrot Anafi', 'Field Engineering', 'Waterproofing', 'XPRIZE'],
       slotId: 'feat-rainforest',
